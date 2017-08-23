@@ -1,0 +1,17 @@
+{
+    "name": "flow-repro",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "apollo-client": "^1.9.1",
+        "flow-bin": "0.52",
+        "graphql-tag": "^2.4.2",
+        "react": "^15.6.1",
+        "react-apollo": "^1.4.14",
+        "react-dom": "^15.6.1"
+    },
+    "scripts": {
+        "flow": "flow index.js"
+    }
+}
